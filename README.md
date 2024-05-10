@@ -1,2 +1,2 @@
 # ALGORITMOS_2_Alfonso_CPC
-ejercicios resueltos :)
+ link: https://github.com/Alfonso18Feb/ALGORITMOS_2_Alfonso_CPC
