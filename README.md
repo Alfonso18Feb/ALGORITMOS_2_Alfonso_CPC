@@ -22,3 +22,7 @@
 ## 34>32 true entonces: [7,23,32,34,5]
 ## 34>5 true entonces: [7,23,32,5,34]
 # Volvemos a recorer la lista otra vez para ver si ya esta ordenada si encontramos que hay valor mayores atras pues entonces los movemos como esta escrito arriba
+
+
+
+# EL resto del codigo esta bien especificado
